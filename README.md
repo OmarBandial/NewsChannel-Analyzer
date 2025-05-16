@@ -29,7 +29,6 @@ A Streamlit web app to analyze and compare news coverage across major internatio
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd "project Cleaned"
    ```
 
 2. **Install dependencies:**
