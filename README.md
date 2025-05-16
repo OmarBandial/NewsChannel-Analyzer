@@ -61,7 +61,7 @@ A Streamlit web app to analyze and compare news coverage across major internatio
 ## Project Structure
 
 ```
-project Cleaned/
+project/
 ├── app.py            # Main Streamlit app
 ├── scrapers.py       # Scraping logic for all channels
 ├── utils.py          # NLP utilities (sentiment, summary, word cloud)
@@ -86,11 +86,6 @@ project Cleaned/
 
 ---
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 ## Acknowledgments
 
