@@ -20,7 +20,11 @@ A Streamlit web app to analyze and compare news coverage across major internatio
 
 ## Demo
 
-![Demo Screenshot](demo.png) <!-- Add a screenshot if available -->
+### App Interface
+![App Interface](Main.png)
+
+### Example Output
+![Example Output](Output.png)
 
 ---
 
@@ -29,7 +33,6 @@ A Streamlit web app to analyze and compare news coverage across major internatio
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd "project Cleaned"
    ```
 
 2. **Install dependencies:**
@@ -62,7 +65,7 @@ A Streamlit web app to analyze and compare news coverage across major internatio
 ## Project Structure
 
 ```
-project Cleaned/
+project/
 ├── app.py            # Main Streamlit app
 ├── scrapers.py       # Scraping logic for all channels
 ├── utils.py          # NLP utilities (sentiment, summary, word cloud)
@@ -87,11 +90,6 @@ project Cleaned/
 
 ---
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 ## Acknowledgments
 
